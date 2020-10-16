@@ -321,6 +321,10 @@ footer .about a,.contact a{
 .kk img{
     margin: 0px 20px;
 }
+input::placeholder{
+color:green;
+     font-family: 'Raleway', sans-serif;
+}
 @media(max-width:1200px){
     .box_sec{
         width: 250px;
